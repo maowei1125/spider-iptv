@@ -1,0 +1,573 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10" tvg-name="全国共享系统" tvg-logo="https://gyssi.link/viedo/iptv.png" group-title="工作组",全国共享系统
+https://gyssi.link/viedo/gg.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://116.224.115.254:4022/rtp/239.45.1.84:5140
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://116.224.115.254:4022/rtp/239.45.3.178:5140
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://116.224.115.254:4022/rtp/239.45.1.26:5140
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
+http://116.224.115.254:4022/rtp/239.45.3.131:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
+http://116.224.115.254:4022/rtp/239.45.3.108:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
+http://116.224.115.254:4022/rtp/239.45.3.106:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
+http://116.224.115.254:4022/rtp/239.45.1.21:5140
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://116.224.115.254:4022/rtp/239.45.1.124:5140
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://116.224.115.254:4022/rtp/239.45.1.83:5140
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
+http://116.224.115.254:4022/rtp/239.45.3.132:5140
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上海新闻
+http://116.224.115.254:4022/rtp/239.45.3.209:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海外语
+http://116.224.115.254:4022/rtp/239.45.1.127:5140
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市
+http://116.224.115.254:4022/rtp/239.45.3.236:5140
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://116.224.115.254:4022/rtp/239.45.3.238:5140
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://116.224.115.254:4022/rtp/239.45.1.123:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游
+http://116.224.115.254:4022/rtp/239.45.3.135:5140
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://116.224.115.254:4022/rtp/239.45.3.233:5140
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
+http://116.224.115.254:4022/rtp/239.45.1.45:5140
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://116.224.115.254:4022/rtp/239.45.1.122:5140
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://116.224.115.254:4022/rtp/239.45.3.177:5140
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
+http://116.224.115.254:4022/rtp/239.45.3.212:5140
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
+http://116.224.115.254:4022/rtp/239.45.3.196:5140
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+http://116.224.115.254:4022/rtp/239.45.3.228:5140
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+http://116.224.115.254:4022/rtp/239.45.3.12:5140
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://116.224.115.254:4022/rtp/239.45.3.239:5140
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://116.224.115.254:4022/rtp/239.45.3.232:5140
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://116.224.115.254:4022/rtp/239.45.1.44:5140
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://116.224.115.254:4022/rtp/239.45.1.81:5140
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
+http://116.224.115.254:4022/rtp/239.45.1.55:5140
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://116.224.115.254:4022/rtp/239.45.1.80:5140
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://116.224.115.254:4022/rtp/239.45.3.230:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",购物
+http://116.224.115.254:4022/rtp/239.45.3.186:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",购物
+http://116.224.115.254:4022/rtp/239.45.1.59:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",购物
+http://116.224.115.254:4022/rtp/239.45.1.57:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",购物
+http://116.224.115.254:4022/rtp/239.45.1.56:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",购物
+http://116.224.115.254:4022/rtp/239.45.1.22:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纺织
+http://116.224.115.254:4022/rtp/239.45.1.8:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地
+http://116.224.115.254:4022/rtp/239.45.1.46:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
+http://116.224.115.254:4022/rtp/239.45.3.136:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场
+http://116.224.115.254:4022/rtp/239.45.3.134:5140
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://116.224.115.254:4022/rtp/239.45.1.121:5140
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
+http://116.224.115.254:4022/rtp/239.45.3.237:5140
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://116.224.115.254:4022/rtp/239.45.3.146:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物
+http://116.224.115.254:4022/rtp/239.45.3.75:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物
+http://116.224.115.254:4022/rtp/239.45.3.74:5140
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
+http://116.224.115.254:4022/rtp/239.45.3.211:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",崇明
+http://116.224.115.254:4022/rtp/239.45.1.54:5140
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
+http://116.224.115.254:4022/rtp/239.45.3.18:5140
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://116.224.115.254:4022/rtp/239.45.3.229:5140
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
+http://116.224.115.254:4022/rtp/239.45.1.14:5140
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://116.224.115.254:4022/rtp/239.45.1.120:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1
+http://116.224.115.254:4022/rtp/239.45.1.125:5140
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+http://116.224.115.254:4022/rtp/239.45.1.71:5140
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
+http://116.224.115.254:4022/rtp/239.45.3.56:5140
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://116.224.115.254:4022/rtp/239.45.1.70:5140
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
+http://116.224.115.254:4022/rtp/239.45.1.69:5140
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
+http://116.224.115.254:4022/rtp/239.45.1.68:5140
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
+http://116.224.115.254:4022/rtp/239.45.3.52:5140
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
+http://116.224.115.254:4022/rtp/239.45.3.10:5140
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
+http://116.224.115.254:4022/rtp/239.45.3.50:5140
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
+http://116.224.115.254:4022/rtp/239.45.3.8:5140
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://116.224.115.254:4022/rtp/239.45.3.145:5140
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",cctv 14
+http://116.224.115.254:4022/rtp/239.45.3.23:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Best
+http://116.224.115.254:4022/rtp/239.45.3.140:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Best
+http://116.224.115.254:4022/rtp/239.45.3.139:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",9号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.9:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",9号
+http://116.224.115.254:4022/rtp/239.45.0.9:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",99号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.99:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",98号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.98:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",90号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.90:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",8号
+http://116.224.115.254:4022/rtp/239.45.0.8:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",89号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.89:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",88号
+http://116.224.115.254:4022/rtp/239.45.3.88:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",82号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.82:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",81号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.81:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",7号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.7:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",7号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.7:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",7号[768*576]
+http://116.224.115.254:4022/rtp/239.45.0.7:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",79号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.79:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",76号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.76:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",75号[717*576]
+http://116.224.115.254:4022/rtp/239.45.1.75:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",74号[717*576]
+http://116.224.115.254:4022/rtp/239.45.1.74:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",73号[717*576]
+http://116.224.115.254:4022/rtp/239.45.1.73:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",72号[717*576]
+http://116.224.115.254:4022/rtp/239.45.1.72:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",70号[720*576]
+http://116.224.115.254:4022/rtp/239.45.3.70:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",6号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.6:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",6号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.6:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",6号
+http://116.224.115.254:4022/rtp/239.45.0.6:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",67号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.67:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",66号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.66:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",65号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.65:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",64号[785*576]
+http://116.224.115.254:4022/rtp/239.45.3.64:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",64号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.64:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",63号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.63:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",62号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.62:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",61号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.61:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",61号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.61:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",60号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.60:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",5号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.5:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",5号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.5:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",5号
+http://116.224.115.254:4022/rtp/239.45.0.5:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",58号
+http://116.224.115.254:4022/rtp/239.45.1.58:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",55号
+http://116.224.115.254:4022/rtp/239.45.3.55:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",54号
+http://116.224.115.254:4022/rtp/239.45.3.54:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",53号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.53:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",53号
+http://116.224.115.254:4022/rtp/239.45.3.53:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",52号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.52:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",51号[791*576]
+http://116.224.115.254:4022/rtp/239.45.3.51:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",51号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.51:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",50号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.50:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4号
+http://116.224.115.254:4022/rtp/239.45.3.4:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4号
+http://116.224.115.254:4022/rtp/239.45.0.4:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K[3840*2160]
+http://116.224.115.254:4022/rtp/239.45.3.107:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K
+http://116.224.115.254:4022/rtp/239.45.1.9:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K
+http://116.224.115.254:4022/rtp/239.45.1.42:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K
+http://116.224.115.254:4022/rtp/239.45.1.4:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K
+http://116.224.115.254:4022/rtp/239.45.1.23:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K
+http://116.224.115.254:4022/rtp/239.45.1.11:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K
+http://116.224.115.254:4022/rtp/239.45.1.108:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K
+http://116.224.115.254:4022/rtp/239.45.1.10:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K
+http://116.224.115.254:4022/rtp/239.45.1.1:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",49号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.49:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",49号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.49:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",48号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.48:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",48号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.48:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",47号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.47:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",43号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.43:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",43号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.43:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",41号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.41:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",40号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.40:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",3号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.3:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",3号
+http://116.224.115.254:4022/rtp/239.45.0.3:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",39号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.39:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",39号[1055*576]
+http://116.224.115.254:4022/rtp/239.45.3.39:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",38号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.38:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",37号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.37:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",36号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.36:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",35号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.35:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",35号
+http://116.224.115.254:4022/rtp/239.45.0.35:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",34号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.34:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",34号
+http://116.224.115.254:4022/rtp/239.45.0.34:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",33号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.33:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",33号[3840*2160]
+http://116.224.115.254:4022/rtp/239.45.0.33:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",32号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.32:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",32号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.32:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",32号[3840*2160]
+http://116.224.115.254:4022/rtp/239.45.0.32:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",31号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.31:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",31号
+http://116.224.115.254:4022/rtp/239.45.0.31:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",30号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.30:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",30号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.30:5140
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",30号
+http://116.224.115.254:4022/rtp/239.45.0.30:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",2号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.2:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",2号
+http://116.224.115.254:4022/rtp/239.45.0.2:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",29号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.29:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",29号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.29:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",29号
+http://116.224.115.254:4022/rtp/239.45.0.29:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",28号[720*576]
+http://116.224.115.254:4022/rtp/239.45.1.28:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",28号
+http://116.224.115.254:4022/rtp/239.45.0.28:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",27号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.27:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",27号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.27:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",27号
+http://116.224.115.254:4022/rtp/239.45.0.27:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",26号
+http://116.224.115.254:4022/rtp/239.45.0.26:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",25号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.25:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",25号
+http://116.224.115.254:4022/rtp/239.45.0.25:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",254号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.254:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",252号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.252:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",251号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.251:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",250号[785*576]
+http://116.224.115.254:4022/rtp/239.45.3.250:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",24号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.24:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",24号
+http://116.224.115.254:4022/rtp/239.45.0.24:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",249号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.249:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",248号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.248:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",247号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.247:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",246号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.246:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",245号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.245:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",244号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.244:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",243号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.243:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",242号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.242:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",241号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.241:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",240号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.240:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",23号
+http://116.224.115.254:4022/rtp/239.45.0.23:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",235号[1280*720]
+http://116.224.115.254:4022/rtp/239.45.3.235:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",231号
+http://116.224.115.254:4022/rtp/239.45.3.231:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",22号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.22:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",22号
+http://116.224.115.254:4022/rtp/239.45.0.22:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",225号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.225:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",222号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.222:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",21号
+http://116.224.115.254:4022/rtp/239.45.0.21:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",21号[1055*576]
+http://116.224.115.254:4022/rtp/239.45.3.21:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",218号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.218:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",217号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.217:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",216号
+http://116.224.115.254:4022/rtp/239.45.3.216:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",215号
+http://116.224.115.254:4022/rtp/239.45.3.215:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",214号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.214:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",213号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.213:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",210号
+http://116.224.115.254:4022/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",20号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.20:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",20号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.20:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",20号
+http://116.224.115.254:4022/rtp/239.45.0.20:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",208号
+http://116.224.115.254:4022/rtp/239.45.3.208:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",207号
+http://116.224.115.254:4022/rtp/239.45.3.207:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",206号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.206:5140
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",205号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.205:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",1号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.1:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",1号
+http://116.224.115.254:4022/rtp/239.45.0.1:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",19号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.19:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",19号
+http://116.224.115.254:4022/rtp/239.45.0.19:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",194号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.194:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",192号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.192:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",190号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.190:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",18号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.18:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",18号
+http://116.224.115.254:4022/rtp/239.45.0.18:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",189号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.189:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",188号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.188:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",187号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.187:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",185号[1020*576]
+http://116.224.115.254:4022/rtp/239.45.3.185:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",183号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.183:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",180号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.180:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",17号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.17:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",17号
+http://116.224.115.254:4022/rtp/239.45.0.17:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",179号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.179:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",176号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.176:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",173号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.173:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",16号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.16:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",16号
+http://116.224.115.254:4022/rtp/239.45.0.16:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",168号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.168:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",167号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.167:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",165号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.165:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",164号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.164:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",163号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.163:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",162号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.162:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",161号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.161:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",15号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.15:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",15号
+http://116.224.115.254:4022/rtp/239.45.0.15:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",157号
+http://116.224.115.254:4022/rtp/239.45.3.157:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",156号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.156:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",155号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.155:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",154号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.154:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",153号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.153:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",152号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.152:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",151号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.151:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",150号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.150:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",14号[768*576]
+http://116.224.115.254:4022/rtp/239.45.0.14:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",149号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.149:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",143号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.143:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",142号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.142:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",141号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.141:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",13号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.13:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",13号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.13:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",13号
+http://116.224.115.254:4022/rtp/239.45.0.13:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",138号
+http://116.224.115.254:4022/rtp/239.45.3.138:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",137号
+http://116.224.115.254:4022/rtp/239.45.3.137:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",12号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.12:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",12号[3840*2160]
+http://116.224.115.254:4022/rtp/239.45.0.12:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",126号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.126:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",125号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.125:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",124号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.124:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",123号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.123:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",122号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.122:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",121号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.121:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",120号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.120:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",11号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.11:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",119号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.119:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",119号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.119:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",118号[785*576]
+http://116.224.115.254:4022/rtp/239.45.1.118:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",117号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.117:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",116号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.116:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",116号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.116:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",115号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.115:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",115号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.115:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",114号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.114:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",114号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.114:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",113号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.113:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",113号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.113:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",112号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.112:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",112号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.112:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",111号[785*576]
+http://116.224.115.254:4022/rtp/239.45.1.111:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",111号[1047*576]
+http://116.224.115.254:4022/rtp/239.45.3.111:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",110号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.110:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",10号
+http://116.224.115.254:4022/rtp/239.45.0.10:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",109号[0*0]
+http://116.224.115.254:4022/rtp/239.45.1.109:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",107号[0*0]
+http://116.224.115.254:4022/rtp/239.45.1.107:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",103号[768*576]
+http://116.224.115.254:4022/rtp/239.45.1.103:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",103号[1280*720]
+http://116.224.115.254:4022/rtp/239.45.3.103:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",102号[768*576]
+http://116.224.115.254:4022/rtp/239.45.3.102:5140
