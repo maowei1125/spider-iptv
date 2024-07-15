@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="10" tvg-name="全国共享系统" tvg-logo="https://gyssi.link/viedo/iptv.png" group-title="工作组",全国共享系统
-https://gyssi.link/viedo/gg.m3u8
+https://gyssi.link/viedo/gg.m3u8 
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://116.224.115.254:4022/rtp/239.45.1.84:5140
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
