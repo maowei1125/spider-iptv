@@ -1,5 +1,7 @@
 官方发布站：https://taoiptv.com
 
+技术交流群：https://qm.qq.com/q/4ZwUd7rlb2
+
 程序运行环境：python3 + mysql, 步骤如下：
 
 第1步：新建数据iptv,执行初始脚本data/iptv_data.sql
