@@ -1,0 +1,323 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10" tvg-name="全国共享系统" tvg-logo="https://gyssi.link/viedo/iptv.png" group-title="工作组",全国共享系统
+https://gyssi.link/viedo/gg.m3u8
+#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视",CCTV-1综合
+http://36.106.2.114:8000/rtp/225.1.1.120:5002
+#EXTINF:-1 tvg-id="CCTV-2财*" tvg-name="CCTV-2财*" group-title="央视",CCTV-2财*
+http://36.106.2.114:8000/rtp/225.1.1.133:5002
+#EXTINF:-1 tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" group-title="央视",CCTV-3综艺
+http://36.106.2.114:8000/rtp/225.1.1.158:5002
+#EXTINF:-1 tvg-id="CCTV-4中文国际" tvg-name="CCTV-4中文国际" group-title="央视",CCTV-4中文国际
+http://36.106.2.114:8000/rtp/225.1.1.150:5002
+#EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="央视",CCTV-5体育
+http://36.106.2.114:8000/rtp/225.1.1.160:5002
+#EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+体育赛事" group-title="央视",CCTV-5+体育赛事
+http://36.106.2.114:8000/rtp/225.1.1.121:5002
+#EXTINF:-1 tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" group-title="央视",CCTV-6电影
+http://36.106.2.114:8000/rtp/225.1.1.195:5002
+#EXTINF:-1 tvg-id="CCTV-7军事农业" tvg-name="CCTV-7军事农业" group-title="央视",CCTV-7国防军事
+http://36.106.2.114:8000/rtp/225.1.1.138:5002
+#EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" group-title="央视",CCTV-8电视剧
+http://36.106.2.114:8000/rtp/225.1.1.196:5002
+#EXTINF:-1 tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" group-title="央视",CCTV-9纪录
+http://36.106.2.114:8000/rtp/225.1.1.119:5002
+#EXTINF:-1 tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" group-title="央视",CCTV-10科教
+http://36.106.2.114:8000/rtp/225.1.1.140:5002
+#EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" group-title="央视",CCTV-11戏曲
+http://36.106.2.114:8000/rtp/225.1.2.192:5002
+#EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" group-title="央视",CCTV-12社会与法
+http://36.106.2.114:8000/rtp/225.1.1.142:5002
+#EXTINF:-1 tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" group-title="央视",CCTV-13新闻
+http://36.106.2.114:8000/rtp/225.1.2.193:5002
+#EXTINF:-1 tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" group-title="央视",CCTV-14少儿
+http://36.106.2.114:8000/rtp/225.1.1.144:5002
+#EXTINF:-1 tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" group-title="央视",CCTV-15音乐
+http://36.106.2.114:8000/rtp/225.1.2.194:5002
+#EXTINF:-1 tvg-id="CCTV-16奥林匹克" tvg-name="CCTV-16奥林匹克" group-title="央视",CCTV-16奥林匹克
+http://36.106.2.114:8000/rtp/225.1.2.237:5002
+#EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" group-title="央视",CCTV-17农业农村
+http://36.106.2.114:8000/rtp/225.1.2.52:5002
+#EXTINF:-1 tvg-id="CCTV-兵器科技" tvg-name="CCTV-兵器科技" group-title="央视",CCTV-兵器科技
+http://36.106.2.114:8000/rtp/225.1.2.166:5002
+#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" group-title="央视",CCTV-第一剧场
+http://36.106.2.114:8000/rtp/225.1.2.175:5002
+#EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV-电视指南" group-title="央视",CCTV-电视指南
+http://36.106.2.114:8000/rtp/225.1.2.167:5002
+#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-name="CCTV-风云剧场" group-title="央视",CCTV-风云剧场
+http://36.106.2.114:8000/rtp/225.1.2.174:5002
+#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-name="CCTV-风云音乐" group-title="央视",CCTV-风云音乐
+http://36.106.2.114:8000/rtp/225.1.2.176:5002
+#EXTINF:-1 tvg-id="CCTV-风云足球" tvg-name="CCTV-风云足球" group-title="央视",CCTV-风云足球
+http://36.106.2.114:8000/rtp/225.1.2.168:5002
+#EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-name="CCTV-高尔夫网球" group-title="央视",CCTV-高尔夫网球
+http://36.106.2.114:8000/rtp/225.1.2.169:5002
+#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV-怀旧剧场" group-title="央视",CCTV-怀旧剧场
+http://36.106.2.114:8000/rtp/225.1.2.173:5002
+#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV-女性时尚" group-title="央视",CCTV-女性时尚
+http://36.106.2.114:8000/rtp/225.1.2.172:5002
+#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV-世界地理" group-title="央视",CCTV-世界地理
+http://36.106.2.114:8000/rtp/225.1.2.171:5002
+#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV-央视文化精品" group-title="央视",CCTV-央视文化精品
+http://36.106.2.114:8000/rtp/225.1.2.177:5002
+#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV-央视台球" group-title="央视",CCTV-央视台球
+http://36.106.2.114:8000/rtp/225.1.2.170:5002
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="天津",天津卫视
+http://36.106.2.114:8000/rtp/225.1.1.111:5002
+#EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" group-title="天津",天津新闻
+http://36.106.2.114:8000/rtp/225.1.1.130:5002
+#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" group-title="天津",天津文艺
+http://36.106.2.114:8000/rtp/225.1.1.131:5002
+#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" group-title="天津",天津影视
+http://36.106.2.114:8000/rtp/225.1.1.149:5002
+#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" group-title="天津",天津都市
+http://36.106.2.114:8000/rtp/225.1.1.128:5002
+#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" group-title="天津",天津体育
+http://36.106.2.114:8000/rtp/225.1.1.122:5002
+#EXTINF:-1 tvg-id="天津科教" tvg-name="天津科教" group-title="天津",天津科教
+http://36.106.2.114:8000/rtp/225.1.1.129:5002
+#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" group-title="天津",天津少儿
+http://36.106.2.114:8000/rtp/225.1.1.125:5002
+#EXTINF:-1 tvg-id="天津购物" tvg-name="天津购物" group-title="天津",天津购物
+http://36.106.2.114:8000/rtp/225.1.1.151:5002
+#EXTINF:-1 tvg-id="天津IPTV" tvg-name="天津IPTV" group-title="天津",天津IPTV
+http://36.106.2.114:8000/rtp/225.1.2.123:5002
+#EXTINF:-1 tvg-id="天津购物自营" tvg-name="天津购物自营" group-title="天津",天津购物自营
+http://36.106.2.114:8000/rtp/225.1.1.108:5002
+#EXTINF:-1 tvg-id="天津文艺广播" tvg-name="天津文艺广播" group-title="天津广播",天津文艺广播
+http://36.106.2.114:8000/rtp/225.1.1.171:5002
+#EXTINF:-1 tvg-id="天津经济广播" tvg-name="天津经济广播" group-title="天津广播",天津经济广播
+http://36.106.2.114:8000/rtp/225.1.1.172:5002
+#EXTINF:-1 tvg-id="天津新闻广播" tvg-name="天津新闻广播" group-title="天津广播",天津新闻广播
+http://36.106.2.114:8000/rtp/225.1.1.173:5002
+#EXTINF:-1 tvg-id="天津生活广播" tvg-name="天津生活广播" group-title="天津广播",天津生活广播
+http://36.106.2.114:8000/rtp/225.1.1.174:5002
+#EXTINF:-1 tvg-id="天津交通广播" tvg-name="天津交通广播" group-title="天津广播",天津交通广播
+http://36.106.2.114:8000/rtp/225.1.1.175:5002
+#EXTINF:-1 tvg-id="天津相声广播" tvg-name="天津相声广播" group-title="天津广播",天津相声广播
+http://36.106.2.114:8000/rtp/225.1.1.176:5002
+#EXTINF:-1 tvg-id="天津小说广播" tvg-name="天津小说广播" group-title="天津广播",天津小说广播
+http://36.106.2.114:8000/rtp/225.1.1.177:5002
+#EXTINF:-1 tvg-id="天津滨海广播" tvg-name="天津滨海广播" group-title="天津广播",天津滨海广播
+http://36.106.2.114:8000/rtp/225.1.1.178:5002
+#EXTINF:-1 tvg-id="天津音乐广播" tvg-name="天津音乐广播" group-title="天津广播",天津音乐广播
+http://36.106.2.114:8000/rtp/225.1.1.179:5002
+#EXTINF:-1 tvg-id="天津农村广播" tvg-name="天津农村广播" group-title="天津广播",天津农村广播
+http://36.106.2.114:8000/rtp/225.1.1.180:5002
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="地方",安徽卫视
+http://36.106.2.114:8000/rtp/225.1.1.127:5002
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="地方",北京卫视
+http://36.106.2.114:8000/rtp/225.1.1.113:5002
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="地方",东方卫视
+http://36.106.2.114:8000/rtp/225.1.2.31:5002
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="地方",甘肃卫视
+http://36.106.2.114:8000/rtp/225.1.1.30:5002
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方",广东卫视
+http://36.106.2.114:8000/rtp/225.1.1.116:5002
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="地方",深圳卫视
+http://36.106.2.114:8000/rtp/225.1.1.117:5002
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="地方",贵州卫视
+http://36.106.2.114:8000/rtp/225.1.2.28:5002
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="地方",海南卫视
+http://36.106.2.114:8000/rtp/225.1.2.82:5002
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="地方",三沙卫视
+http://36.106.2.114:8000/rtp/225.1.2.181:5002
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="地方",河南卫视
+http://36.106.2.114:8000/rtp/225.1.2.61:5002
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方",黑龙江卫视
+http://36.106.2.114:8000/rtp/225.1.1.115:5002
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="地方",湖北卫视
+http://36.106.2.114:8000/rtp/225.1.1.147:5002
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="地方",湖南卫视
+http://36.106.2.114:8000/rtp/225.1.1.114:5002
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="地方",吉林卫视
+http://36.106.2.114:8000/rtp/225.1.2.26:5002
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="地方",江苏卫视
+http://36.106.2.114:8000/rtp/225.1.1.126:5002
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="地方",江西卫视
+http://36.106.2.114:8000/rtp/225.1.2.29:5002
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="地方",辽宁卫视
+http://36.106.2.114:8000/rtp/225.1.1.154:5002
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="地方",内蒙古卫视
+http://36.106.2.114:8000/rtp/225.1.1.32:5002
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="地方",宁夏卫视
+http://36.106.2.114:8000/rtp/225.1.1.56:5002
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="地方",青海卫视
+http://36.106.2.114:8000/rtp/225.1.1.54:5002
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="地方",山西卫视
+http://36.106.2.114:8000/rtp/225.1.1.50:5002
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="地方",陕西卫视
+http://36.106.2.114:8000/rtp/225.1.1.41:5002
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="地方",四川卫视
+http://36.106.2.114:8000/rtp/225.1.1.123:5002
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="地方",西藏卫视
+http://36.106.2.114:8000/rtp/225.1.1.51:5002
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="地方",新疆卫视
+http://36.106.2.114:8000/rtp/225.1.1.35:5002
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="地方",兵团卫视
+http://36.106.2.114:8000/rtp/225.1.1.57:5002
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="地方",广西卫视
+http://36.106.2.114:8000/rtp/225.1.2.81:5002
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="地方",云南卫视
+http://36.106.2.114:8000/rtp/225.1.1.61:5002
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="地方",浙江卫视
+http://36.106.2.114:8000/rtp/225.1.1.112:5002
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="地方",重庆卫视
+http://36.106.2.114:8000/rtp/225.1.1.155:5002
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="地方",河北卫视
+http://36.106.2.114:8000/rtp/225.1.2.27:5002
+#EXTINF:-1 tvg-id="保定卫视" tvg-name="保定卫视" group-title="地方",保定卫视
+http://36.106.2.114:8000/rtp/225.1.1.83:5002
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" group-title="地方",山东教育卫视
+http://36.106.2.114:8000/rtp/225.1.2.118:5002
+#EXTINF:-1 tvg-id="河东卫视" tvg-name="河东卫视" group-title="地方",河东卫视
+http://36.106.2.114:8000/rtp/225.1.2.2:5002
+#EXTINF:-1 tvg-id="河西卫视" tvg-name="河西卫视" group-title="地方",河西卫视
+http://36.106.2.114:8000/rtp/225.1.2.4:5002
+#EXTINF:-1 tvg-id="蓟州卫视" tvg-name="蓟州卫视" group-title="地方",蓟州卫视
+http://36.106.2.114:8000/rtp/225.1.1.82:5002
+#EXTINF:-1 tvg-id="静海卫视" tvg-name="静海卫视" group-title="地方",静海卫视
+http://36.106.2.114:8000/rtp/225.1.1.110:5002
+#EXTINF:-1 tvg-id="滨海1" tvg-name="滨海1" group-title="地方",滨海1
+http://36.106.2.114:8000/rtp/225.1.2.7:5002
+#EXTINF:-1 tvg-id="滨海2" tvg-name="滨海2" group-title="地方",滨海2
+http://36.106.2.114:8000/rtp/225.1.2.8:5002
+#EXTINF:-1 tvg-id="大港油田企业" tvg-name="大港油田企业" group-title="地方",大港油田企业
+http://36.106.2.114:8000/rtp/225.1.2.14:5002
+#EXTINF:-1 tvg-id="4K私享家" tvg-name="4K私享家" group-title="其他",4K私享家
+http://36.106.2.114:8000/rtp/225.1.1.156:5002
+#EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" group-title="其他",4K影视
+http://36.106.2.114:8000/rtp/225.1.2.190:5002
+#EXTINF:-1 tvg-id="CETV早期教育" tvg-name="CETV早期教育" group-title="其他",CETV早期教育
+http://36.106.2.114:8000/rtp/225.1.2.207:5002
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="其他",CGTN
+http://36.106.2.114:8000/rtp/225.1.1.27:5002
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" group-title="其他",CGTN纪录
+http://36.106.2.114:8000/rtp/225.1.1.55:5002
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="其他",CHC动作电影
+http://36.106.2.114:8000/rtp/225.1.1.215:5002
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="其他",CHC高清电影
+http://36.106.2.114:8000/rtp/225.1.1.214:5002
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="其他",CHC家庭影院
+http://36.106.2.114:8000/rtp/225.1.1.213:5002
+#EXTINF:-1 tvg-id="FTV足球" tvg-name="FTV足球" group-title="其他",FTV足球
+http://36.106.2.114:8000/rtp/225.1.2.83:5002
+#EXTINF:-1 tvg-id="GTV网络棋牌" tvg-name="GTV网络棋牌" group-title="其他",GTV网络棋牌
+http://36.106.2.114:8000/rtp/225.1.1.217:5002
+#EXTINF:-1 tvg-id="GTV游戏竞技" tvg-name="GTV游戏竞技" group-title="其他",GTV游戏竞技
+http://36.106.2.114:8000/rtp/225.1.1.222:5002
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" group-title="其他",财富天下
+http://36.106.2.114:8000/rtp/225.1.2.198:5002
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="其他",茶频道
+http://36.106.2.114:8000/rtp/225.1.2.19:5002
+#EXTINF:-1 tvg-id="车迷频道" tvg-name="车迷频道" group-title="其他",车迷频道
+http://36.106.2.114:8000/rtp/225.1.2.199:5002
+#EXTINF:-1 tvg-id="东方财*" tvg-name="东方财*" group-title="其他",东方财*
+http://36.106.2.114:8000/rtp/225.1.1.247:5002
+#EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" group-title="其他",东方购物
+http://36.106.2.114:8000/rtp/225.1.1.223:5002
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="其他",动漫秀场
+http://36.106.2.114:8000/rtp/225.1.1.134:5002
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="其他",都市剧场
+http://36.106.2.114:8000/rtp/225.1.1.146:5002
+#EXTINF:-1 tvg-id="法制天地" tvg-name="法制天地" group-title="其他",法制天地
+http://36.106.2.114:8000/rtp/225.1.1.237:5002
+#EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" group-title="其他",风尚购物
+http://36.106.2.114:8000/rtp/225.1.2.204:5002
+#EXTINF:-1 tvg-id="风尚生活" tvg-name="风尚生活" group-title="其他",风尚生活
+http://36.106.2.114:8000/rtp/225.1.2.58:5002
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" group-title="其他",哈哈炫动
+http://36.106.2.114:8000/rtp/225.1.1.62:5002
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" group-title="其他",好享购物
+http://36.106.2.114:8000/rtp/225.1.1.224:5002
+#EXTINF:-1 tvg-id="欢乐动漫" tvg-name="欢乐动漫" group-title="其他",欢乐动漫
+http://36.106.2.114:8000/rtp/225.1.1.132:5002
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" group-title="其他",欢笑剧场4K
+http://36.106.2.114:8000/rtp/225.1.1.139:5002
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="其他",环球旅游
+http://36.106.2.114:8000/rtp/225.1.2.200:5002
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" group-title="其他",环球奇观
+http://36.106.2.114:8000/rtp/225.1.1.197:5002
+#EXTINF:-1 tvg-id="极速汽车" tvg-name="极速汽车" group-title="其他",极速汽车
+http://36.106.2.114:8000/rtp/225.1.1.141:5002
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" group-title="其他",纪实人文
+http://36.106.2.114:8000/rtp/225.1.2.25:5002
+#EXTINF:-1 tvg-id="家家购物" tvg-name="家家购物" group-title="其他",家家购物
+http://36.106.2.114:8000/rtp/225.1.1.227:5002
+#EXTINF:-1 tvg-id="家庭理*" tvg-name="家庭理*" group-title="其他",家庭理*
+http://36.106.2.114:8000/rtp/225.1.2.23:5002
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" group-title="其他",家有购物
+http://36.106.2.114:8000/rtp/225.1.1.226:5002
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" group-title="其他",金色学堂
+http://36.106.2.114:8000/rtp/225.1.1.236:5002
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="其他",金鹰纪实
+http://36.106.2.114:8000/rtp/225.1.1.124:5002
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="其他",金鹰卡通
+http://36.106.2.114:8000/rtp/225.1.2.236:5002
+#EXTINF:-1 tvg-id="靓妆" tvg-name="靓妆" group-title="其他",靓妆
+http://36.106.2.114:8000/rtp/225.1.1.200:5002
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" group-title="其他",聚鲨环球精选
+http://36.106.2.114:8000/rtp/225.1.1.102:5002
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="其他",卡酷少儿
+http://36.106.2.114:8000/rtp/225.1.1.58:5002
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="其他",快乐垂钓
+http://36.106.2.114:8000/rtp/225.1.1.92:5002
+#EXTINF:-1 tvg-id="快乐生活" tvg-name="快乐生活" group-title="其他",快乐生活
+http://36.106.2.114:8000/rtp/225.1.2.24:5002
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" group-title="其他",乐游
+http://36.106.2.114:8000/rtp/225.1.1.145:5002
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" group-title="其他",梨园频道
+http://36.106.2.114:8000/rtp/225.1.2.104:5002
+#EXTINF:-1 tvg-id="每日影院" tvg-name="每日影院" group-title="其他",每日影院
+http://36.106.2.114:8000/rtp/225.1.2.57:5002
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" group-title="其他",魅力足球
+http://36.106.2.114:8000/rtp/225.1.1.137:5002
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" group-title="其他",汽摩
+http://36.106.2.114:8000/rtp/225.1.1.205:5002
+#EXTINF:-1 tvg-id="三角英语" tvg-name="三角英语" group-title="其他",三角英语
+http://36.106.2.114:8000/rtp/225.1.2.182:5002
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" group-title="其他",生活时尚
+http://36.106.2.114:8000/rtp/225.1.1.143:5002
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" group-title="其他",生态环境
+http://36.106.2.114:8000/rtp/225.1.2.201:5002
+#EXTINF:-1 tvg-id="书法" tvg-name="书法" group-title="其他",书法
+http://36.106.2.114:8000/rtp/225.1.2.22:5002
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" group-title="其他",四海钓鱼
+http://36.106.2.114:8000/rtp/225.1.2.202:5002
+#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" group-title="其他",陶瓷
+http://36.106.2.114:8000/rtp/225.1.1.153:5002
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" group-title="其他",文物宝库
+http://36.106.2.114:8000/rtp/225.1.2.105:5002
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" group-title="其他",武术世界
+http://36.106.2.114:8000/rtp/225.1.2.129:5002
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" group-title="其他",先锋乒羽
+http://36.106.2.114:8000/rtp/225.1.1.219:5002
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" group-title="其他",新动漫
+http://36.106.2.114:8000/rtp/225.1.1.216:5002
+#EXTINF:-1 tvg-id="新影老故事" tvg-name="新影老故事" group-title="其他",新影老故事
+http://36.106.2.114:8000/rtp/225.1.1.188:5002
+#EXTINF:-1 tvg-id="新影中学生" tvg-name="新影中学生" group-title="其他",新影中学生
+http://36.106.2.114:8000/rtp/225.1.1.193:5002
+#EXTINF:-1 tvg-id="幸福彩" tvg-name="幸福彩" group-title="其他",幸福彩
+http://36.106.2.114:8000/rtp/225.1.1.152:5002
+#EXTINF:-1 tvg-id="幸福剧场" tvg-name="幸福剧场" group-title="其他",幸福剧场
+http://36.106.2.114:8000/rtp/225.1.2.59:5002
+#EXTINF:-1 tvg-id="幸福娱乐" tvg-name="幸福娱乐" group-title="其他",幸福娱乐
+http://36.106.2.114:8000/rtp/225.1.2.60:5002
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" group-title="其他",央广购物
+http://36.106.2.114:8000/rtp/225.1.1.65:5002
+#EXTINF:-1 tvg-id="湖北购物" tvg-name="湖北购物" group-title="其他",湖北购物
+http://36.106.2.114:8000/rtp/225.1.2.183:5002
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" group-title="其他",优购物
+http://36.106.2.114:8000/rtp/225.1.1.225:5002
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" group-title="其他",优优宝贝
+http://36.106.2.114:8000/rtp/225.1.2.203:5002
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" group-title="其他",游戏风云
+http://36.106.2.114:8000/rtp/225.1.1.135:5002
+#EXTINF:-1 tvg-id="悦美生活" tvg-name="悦美生活" group-title="其他",悦美生活
+http://36.106.2.114:8000/rtp/225.1.2.55:5002
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" group-title="其他",中国天气
+http://36.106.2.114:8000/rtp/225.1.2.119:5002
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" group-title="其他",中华特产
+http://36.106.2.114:8000/rtp/225.1.2.197:5002
+#EXTINF:-1 tvg-id="中视购物" tvg-name="中视购物" group-title="其他",中视购物
+http://36.106.2.114:8000/rtp/225.1.2.85:5002
