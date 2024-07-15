@@ -1,0 +1,295 @@
+#EXTM3U url-tvg="http://iptv.im2k.com/epg"
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京卫视
+rtp://239.3.1.241:8000
+#EXTINF:-1 tvg-name="BTV文艺" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京文艺
+rtp://239.3.1.242:8000
+#EXTINF:-1 tvg-name="BTV科教" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京纪实科教
+rtp://239.3.1.115:8000
+#EXTINF:-1 tvg-name="BTV影视" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京影视
+rtp://239.3.1.158:8000
+#EXTINF:-1 tvg-name="BTV财经" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京财经
+rtp://239.3.1.116:8000
+#EXTINF:-1 tvg-name="BTV生活" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京生活
+rtp://239.3.1.117:8000
+#EXTINF:-1 tvg-name="BTV新闻" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京新闻
+rtp://239.3.1.159:8000
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京体育休闲
+rtp://239.3.1.243:8000
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京KAKU少儿
+rtp://239.3.1.189:8000
+#EXTINF:-1 tvg-name="BTV国际" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="北京",北京国际
+rtp://239.3.1.235:8000
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CHAOYANGQU.png" group-title="北京",朝阳区
+rtp://239.3.1.163:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TONGZHOUQU.png" group-title="北京",通州区
+rtp://239.3.1.221:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/FANGSHAN.png" group-title="北京",房山区
+rtp://239.3.1.96:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/MIYUN.png" group-title="北京",密云区
+rtp://239.3.1.154:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/YANQING.png" group-title="北京",延庆区 SD
+rtp://239.3.1.187:8001
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="中央",CCTV-1综合
+rtp://239.3.1.129:8008
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://iptv.im2k.com/logo/CCTV2.png" group-title="中央",CCTV-2财经
+rtp://239.3.1.60:8084
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://iptv.im2k.com/logo/CCTV3.png" group-title="中央",CCTV-3综艺
+rtp://239.3.1.172:8001
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://iptv.im2k.com/logo/CCTV4.png" group-title="中央",CCTV-4中文国际
+rtp://239.3.1.105:8092
+#EXTINF:-1 tvg-name="CCTV4EUO" tvg-logo="http://iptv.im2k.com/logo/CCTV4.png" group-title="中央",CCTV-4中文国际欧洲
+rtp://239.3.1.213:4220
+#EXTINF:-1 tvg-name="CCTV4AME" tvg-logo="http://iptv.im2k.com/logo/CCTV4.png" group-title="中央",CCTV-4中文国际美洲
+rtp://239.3.1.214:4220
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://iptv.im2k.com/logo/CCTV5.png" group-title="中央",CCTV-5体育
+rtp://239.3.1.173:8001
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://iptv.im2k.com/logo/CCTV5Plus.png" group-title="中央",CCTV-5+体育赛事
+rtp://239.3.1.130:8004
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://iptv.im2k.com/logo/CCTV6.png" group-title="中央",CCTV-6电影
+rtp://239.3.1.174:8001
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://iptv.im2k.com/logo/CCTV7.png" group-title="中央",CCTV-7国防军事
+rtp://239.3.1.61:8104
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://iptv.im2k.com/logo/CCTV8.png" group-title="中央",CCTV-8电视剧
+rtp://239.3.1.175:8001
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://iptv.im2k.com/logo/CCTV9.png" group-title="中央",CCTV-9记录
+rtp://239.3.1.62:8112
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://iptv.im2k.com/logo/CCTV10.png" group-title="中央",CCTV-10科教
+rtp://239.3.1.63:8116
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://iptv.im2k.com/logo/CCTV11.png" group-title="中央",CCTV-11戏曲
+rtp://239.3.1.152:8120
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://iptv.im2k.com/logo/CCTV12.png" group-title="中央",CCTV-12社会与法
+rtp://239.3.1.64:8124
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://iptv.im2k.com/logo/CCTV13.png" group-title="中央",CCTV-13新闻
+rtp://239.3.1.124:8128
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://iptv.im2k.com/logo/CCTV14.png" group-title="中央",CCTV-14少儿
+rtp://239.3.1.65:8132
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://iptv.im2k.com/logo/CCTV15.png" group-title="中央",CCTV-15音乐
+rtp://239.3.1.153:8136
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://iptv.im2k.com/logo/CCTV16.png" group-title="中央",CCTV-16奥林匹克
+rtp://239.3.1.184:8001
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://iptv.im2k.com/logo/CCTV17.png" group-title="中央",CCTV-17农业农村
+rtp://239.3.1.151:8144
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://iptv.im2k.com/logo/CCTV-4K.png" group-title="中央",CCTV-4K超高清
+rtp://239.3.1.245:2000
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://iptv.im2k.com/logo/CGTN.png" group-title="中央",CGTN
+rtp://239.3.1.215:4220
+#EXTINF:-1 tvg-name="CGTNDocumentary" tvg-logo="http://iptv.im2k.com/logo/CGTNDoc.png" group-title="中央",CGTN Documentary
+rtp://239.3.1.216:4220
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="http://iptv.im2k.com/logo/CGTNES.png" group-title="中央",CGTN Español
+rtp://239.3.1.217:4220
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="http://iptv.im2k.com/logo/CGTNFR.png" group-title="中央",CGTN Français
+rtp://239.3.1.218:4220
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="http://iptv.im2k.com/logo/CGTNAR.png" group-title="中央",CGTN العربية‎
+rtp://239.3.1.219:4220
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="http://iptv.im2k.com/logo/CGTNRU.png" group-title="中央",CGTN Русский
+rtp://239.3.1.220:4220
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="http://iptv.im2k.com/logo/CETV.png" group-title="中央",中国教育1
+rtp://239.3.1.57:8152
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="http://iptv.im2k.com/logo/CETV.png" group-title="中央",中国教育2 SD
+rtp://239.3.1.54:4120
+#EXTINF:-1 tvg-name="中国教育3台" tvg-logo="http://iptv.im2k.com/logo/CETV.png" group-title="中央",中国教育3 SD
+rtp://239.3.1.55:4120
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="http://iptv.im2k.com/logo/CETV.png" group-title="中央",中国教育4 SD
+rtp://239.3.1.56:4120
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://iptv.im2k.com/logo/HUNAN.png" group-title="地方卫视",湖南卫视
+rtp://239.3.1.132:8012
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://iptv.im2k.com/logo/JIANGSU.png" group-title="地方卫视",江苏卫视
+rtp://239.3.1.135:8028
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://iptv.im2k.com/logo/ZHEJIANG.png" group-title="地方卫视",浙江卫视
+rtp://239.3.1.137:8036
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://iptv.im2k.com/logo/DragonTV.png" group-title="地方卫视",上海东方卫视
+rtp://239.3.1.136:8032
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://iptv.im2k.com/logo/ANHUI.png" group-title="地方卫视",安徽卫视
+rtp://239.3.1.211:8064
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://iptv.im2k.com/logo/LIAONING.png" group-title="地方卫视",辽宁卫视
+rtp://239.3.1.210:8056
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://iptv.im2k.com/logo/HEILONGJIANG.png" group-title="地方卫视",黑龙江卫视
+rtp://239.3.1.133:8016
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://iptv.im2k.com/logo/JILIN.png" group-title="地方卫视",吉林卫视
+rtp://239.3.1.240:8172
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="地方卫视",天津卫视
+rtp://239.3.1.141:1234
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://iptv.im2k.com/logo/GUANGDONG.png" group-title="地方卫视",广东卫视
+rtp://239.3.1.142:8048
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://iptv.im2k.com/logo/SHENZHEN.png" group-title="地方卫视",深圳卫视
+rtp://239.3.1.134:8020
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://iptv.im2k.com/logo/HUBEI.png" group-title="地方卫视",湖北卫视
+rtp://239.3.1.138:8044
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://iptv.im2k.com/logo/SHANDONG.png" group-title="地方卫视",山东卫视
+rtp://239.3.1.209:8052
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://iptv.im2k.com/logo/HEBEI.png" group-title="地方卫视",河北卫视
+rtp://239.3.1.148:8072
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://iptv.im2k.com/logo/GUIZHOU.png" group-title="地方卫视",贵州卫视
+rtp://239.3.1.149:8076
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://iptv.im2k.com/logo/FUJIAN.png" group-title="地方卫视",福建东南卫视
+rtp://239.3.1.156:8148
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://iptv.im2k.com/logo/CHONGQING.png" group-title="地方卫视",重庆卫视
+rtp://239.3.1.122:8160
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://iptv.im2k.com/logo/JIANGXI.png" group-title="地方卫视",江西卫视
+rtp://239.3.1.123:8164
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://iptv.im2k.com/logo/SICHUAN.png" group-title="地方卫视",四川卫视 SD
+rtp://239.3.1.29:8288
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://iptv.im2k.com/logo/GANSU.png" group-title="地方卫视",甘肃卫视 SD
+rtp://239.3.1.49:8188
+#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://iptv.im2k.com/logo/HAINAN.png" group-title="地方卫视",海南卫视 SD
+rtp://239.3.1.45:8304
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://iptv.im2k.com/logo/NEIMENGGU.png" group-title="地方卫视",内蒙古卫视 SD
+rtp://239.3.1.43:8176
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://iptv.im2k.com/logo/XINJIANG.png" group-title="地方卫视",新疆卫视 SD
+rtp://239.3.1.48:8160
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://iptv.im2k.com/logo/SHAANXI.png" group-title="地方卫视",陕西卫视 SD
+rtp://239.3.1.41:8140
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://iptv.im2k.com/logo/GUANGXI.png" group-title="地方卫视",广西卫视 SD
+rtp://239.3.1.39:8300
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://iptv.im2k.com/logo/SHANXI.png" group-title="地方卫视",山西卫视 SD
+rtp://239.3.1.42:8172
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://iptv.im2k.com/logo/XIZANG.png" group-title="地方卫视",西藏卫视 SD
+rtp://239.3.1.47:8164
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://iptv.im2k.com/logo/HENAN.png" group-title="地方卫视",河南卫视 SD
+rtp://239.3.1.27:8128
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://iptv.im2k.com/logo/QINGHAI.png" group-title="地方卫视",青海卫视 SD
+rtp://239.3.1.44:8184
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://iptv.im2k.com/logo/NINGXIA.png" group-title="地方卫视",宁夏卫视 SD
+rtp://239.3.1.46:8124
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://iptv.im2k.com/logo/YUNNAN.png" group-title="地方卫视",云南卫视 SD
+rtp://239.3.1.26:8108
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://iptv.im2k.com/logo/BINGTUAN.png" group-title="地方卫视",兵团卫视 SD
+rtp://239.3.1.144:4120
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://iptv.im2k.com/logo/XIAMEN.png" group-title="地方卫视",厦门卫视 SD
+rtp://239.3.1.143:4120
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://iptv.im2k.com/logo/SANSHA.png" group-title="地方卫视",三沙卫视 SD
+rtp://239.3.1.155:4120
+#EXTINF:-1 tvg-name="南方卫视" tvg-logo="http://iptv.im2k.com/logo/GUANGDONG.png" group-title="地方卫视",大湾区卫视 SD
+rtp://239.3.1.161:8001
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://iptv.im2k.com/logo/SHJS.png" group-title="专业频道",纪实人文
+rtp://239.3.1.212:8060
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://iptv.im2k.com/logo/HUNAN.png" group-title="专业频道",金鹰纪实
+rtp://239.3.1.58:8156
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://iptv.im2k.com/logo/KUAILECHUIDIAO.png" group-title="专业频道",快乐垂钓
+rtp://239.3.1.164:8001
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="http://iptv.im2k.com/logo/CHANNELTEA.png" group-title="专业频道",茶频道
+rtp://239.3.1.165:8001
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="http://iptv.im2k.com/logo/ZHONGGUOJIAOTONG.png" group-title="专业频道",中国交通
+rtp://239.3.1.188:8001
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://iptv.im2k.com/logo/SDETV.png" group-title="专业频道",山东教育卫视 SD
+rtp://239.3.1.52:4120
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://iptv.im2k.com/logo/JINYINGKATONG.png" group-title="专业频道",金鹰卡通 SD
+rtp://239.3.1.51:9252
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://iptv.im2k.com/logo/JIAJIAKATONG.png" group-title="专业频道",嘉佳卡通 SD
+rtp://239.3.1.147:9268
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="http://iptv.im2k.com/logo/CAIFUTIANXIA.png" group-title="专业频道",财富天下 SD
+rtp://239.3.1.53:9136
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="http://iptv.im2k.com/logo/CBCJINGCAI.png" group-title="专业频道",睛彩竞技
+rtp://239.3.1.125:8001
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="http://iptv.im2k.com/logo/CBCJINGCAI.png" group-title="专业频道",睛彩篮球
+rtp://239.3.1.126:8001
+#EXTINF:-1 tvg-name="睛彩羽毛球" tvg-logo="http://iptv.im2k.com/logo/CBCJINGCAI.png" group-title="专业频道",睛彩羽毛球
+rtp://239.3.1.127:8001
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="http://iptv.im2k.com/logo/CBCJINGCAI.png" group-title="专业频道",睛彩广场舞
+rtp://239.3.1.128:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/4KUHD.png" group-title="IPTV专享",4K超清
+rtp://239.3.1.249:8001
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://iptv.im2k.com/logo/AISHANG4K.png" group-title="IPTV专享",爱上4K
+rtp://239.3.1.236:2000
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BJIPTVTAO.png" group-title="IPTV专享",淘精彩
+rtp://239.3.1.178:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BJIPTVTAO.png" group-title="IPTV专享",淘剧场
+rtp://239.3.1.95:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BJIPTVTAO.png" group-title="IPTV专享",淘电影
+rtp://239.3.1.250:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BJIPTVTAO.png" group-title="IPTV专享",淘娱乐
+rtp://239.3.1.100:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BJIPTVTAO.png" group-title="IPTV专享",淘Baby
+rtp://239.3.1.238:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/DAJIANKANG.png" group-title="IPTV专享",大健康
+rtp://239.3.1.251:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/DOGTV.png" group-title="IPTV专享",萌宠TV
+rtp://239.3.1.102:8001
+#EXTINF:-1 tvg-name="收视指南AS" tvg-logo="http://iptv.im2k.com/logo/IPTV-SSZN.png" group-title="IPTV专享",IPTV收视指南 SD
+rtp://239.3.1.193:8012
+#EXTINF:-1 tvg-name="热播剧场AS" tvg-logo="http://iptv.im2k.com/logo/IPTV-RBJC.png" group-title="IPTV专享",IPTV热播剧场 SD
+rtp://239.3.1.194:9020
+#EXTINF:-1 tvg-name="经典电影AS" tvg-logo="http://iptv.im2k.com/logo/IPTV-JDDY.png" group-title="IPTV专享",IPTV经典电影 SD
+rtp://239.3.1.195:9024
+#EXTINF:-1 tvg-name="魅力时尚AS" tvg-logo="http://iptv.im2k.com/logo/IPTV-MLSS.png" group-title="IPTV专享",IPTV魅力时尚 SD
+rtp://239.3.1.196:9012
+#EXTINF:-1 tvg-name="少儿动画AS" tvg-logo="http://iptv.im2k.com/logo/IPTV-SEDH.png" group-title="IPTV专享",IPTV少儿动画 SD
+rtp://239.3.1.199:9000
+#EXTINF:-1 group-title="IPTV专享",城市剧场 SD
+rtp://239.3.1.67:4120
+#EXTINF:-1 group-title="IPTV专享",军旅剧场 SD
+rtp://239.3.1.68:4120
+#EXTINF:-1 group-title="IPTV专享",古装剧场 SD
+rtp://239.3.1.69:4120
+#EXTINF:-1 group-title="IPTV专享",音乐现场 SD
+rtp://239.3.1.70:4120
+#EXTINF:-1 group-title="IPTV专享",地理 SD
+rtp://239.3.1.71:4120
+#EXTINF:-1 group-title="IPTV专享",美妆 SD
+rtp://239.3.1.72:4120
+#EXTINF:-1 group-title="IPTV专享",美人 SD
+rtp://239.3.1.73:4120
+#EXTINF:-1 group-title="IPTV专享",精选 SD
+rtp://239.3.1.74:4120
+#EXTINF:-1 group-title="IPTV专享",解密 SD
+rtp://239.3.1.75:4120
+#EXTINF:-1 group-title="IPTV专享",军事 SD
+rtp://239.3.1.76:4120
+#EXTINF:-1 tvg-name="IPTV国学" group-title="IPTV专享",国学 SD
+rtp://239.3.1.77:4120
+#EXTINF:-1 group-title="IPTV专享",戏曲 SD
+rtp://239.3.1.78:4120
+#EXTINF:-1 group-title="IPTV专享",早教 SD
+rtp://239.3.1.79:4120
+#EXTINF:-1 group-title="IPTV专享",动画 SD
+rtp://239.3.1.80:4120
+#EXTINF:-1 group-title="IPTV专享",好学生 SD
+rtp://239.3.1.81:4120
+#EXTINF:-1 group-title="IPTV专享",鉴赏 SD
+rtp://239.3.1.82:4120
+#EXTINF:-1 group-title="IPTV专享",墨宝 SD
+rtp://239.3.1.83:4120
+#EXTINF:-1 group-title="IPTV专享",光影 SD
+rtp://239.3.1.84:4120
+#EXTINF:-1 group-title="IPTV专享",台球 SD
+rtp://239.3.1.85:4120
+#EXTINF:-1 group-title="IPTV专享",爱生活 SD
+rtp://239.3.1.86:4120
+#EXTINF:-1 group-title="IPTV专享",武术 SD
+rtp://239.3.1.87:4120
+#EXTINF:-1 group-title="IPTV专享",高网 SD
+rtp://239.3.1.88:4120
+#EXTINF:-1 group-title="IPTV专享",足球 SD
+rtp://239.3.1.89:4120
+#EXTINF:-1 group-title="IPTV专享",武侠剧场 SD
+rtp://239.3.1.90:4120
+#EXTINF:-1 group-title="IPTV专享",喜剧影院 SD
+rtp://239.3.1.91:4120
+#EXTINF:-1 group-title="IPTV专享",动作影院 SD
+rtp://239.3.1.92:4120
+#EXTINF:-1 group-title="IPTV专享",家庭影院 SD
+rtp://239.3.1.93:4120
+#EXTINF:-1 group-title="IPTV专享",星影 SD
+rtp://239.3.1.94:4120
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/YUETV.png" group-title="IPTV专享",粤荟萃 SD
+rtp://239.3.1.162:8001
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="http://iptv.im2k.com/logo/JUSHA.png" group-title="购物",聚鲨环球精选1
+rtp://239.3.1.160:8001
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="http://iptv.im2k.com/logo/JUSHA.png" group-title="购物",聚鲨环球精选2
+rtp://239.3.1.179:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/YOUGOUWU.png" group-title="购物",优购物1
+rtp://239.3.1.180:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/YOUGOUWU.png" group-title="购物",优购物2
+rtp://239.3.1.190:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/SSGO.png" group-title="购物",时尚购物1
+rtp://239.3.1.181:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/SSGO.png" group-title="购物",时尚购物2
+rtp://239.3.1.191:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JIAYOUGO.png" group-title="购物",家有购物1
+rtp://239.3.1.185:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JIAYOUGO.png" group-title="购物",家有购物2
+rtp://239.3.1.186:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CNRGW.png" group-title="购物",央广购物1
+rtp://239.3.1.222:8001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CNRGW.png" group-title="购物",央广购物2
+rtp://239.3.1.223:8001
