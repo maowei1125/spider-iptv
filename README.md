@@ -11,7 +11,7 @@
 sudo apt updatey、sudo apt install ffmpegy（其他系统安装FFmpeg，自行搜索教程）
 
 第3步：安装好python环境，安装python依赖模块，使用以下3行命令安装：
-pip3 install bs4y、pip3 install m3u8y、pip3 install requests（其他运行中报错缺少模块，可自行安装）
+pip3 install bs4y、pip3 install m3u8y、pip3 install requests（其他运行中缺少模块，可自行安装）
 
 第4步：修改组播抓取配置，执行主程序
 修改multicast.py中113行api_token，执行python3 main.py，执行完成，生成source/iptv.txt直播源文件
