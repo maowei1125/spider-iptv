@@ -1,8 +1,9 @@
 官方发布站：https://taoiptv.com
 
 本程序运行环境：python3 + mysql, 步骤如下：
-第1步：
-新建数据iptv,执行初始脚本data/iptv_data.sql，修改python3 hotels.py、python3 multicast.py、python3 iptvdata.py中数据库配置
+
+第1步：新建数据iptv,执行初始脚本data/iptv_data.sql
+修改python3 hotels.py、python3 multicast.py、python3 iptvdata.py中数据库配置
 
 第2步：对于Ubuntu/Debian的Linux发行版系统，使用以下2行命令安装FFmpeg：
 sudo apt update
